@@ -1,0 +1,70 @@
+@charset "UTF-8";
+
+
+body {
+    font: 1.5rem sans-serif;
+}
+
+.paragrafo {
+    padding-top: 20px;
+}
+
+.navbar {
+    background-color: #32E65C;
+}
+
+.quemsomos {
+    background-color: #4CF5AB;
+    color: darkslategray;
+}
+
+.parceiros{
+    background-color: #7DF56D;
+}
+
+.serviços { 
+
+}
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+.imagem1 {
+    padding: 10px 0px;
+    width: 380px;
+    height: 370px;
+}
+
+
+.imagemparceiros {
+    border-radius: 70%;
+    padding: 26px;
+    width: 370px;
+    height: 360px;
+}
+
+.imagemservicos {
+    width: 100%;
+}
+
+.margin-footer {
+    margin: auto;
+    font-size: 1rem;
+    font-weight: normal;
+}
+
+.bg-footer {
+    background-color: black;
+    color:white
+}
+
+
+.dt{ 
+    color:blue
+}
+
+.dl {
+    color: red;
+}
